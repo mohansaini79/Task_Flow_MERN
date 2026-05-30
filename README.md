@@ -2,8 +2,25 @@
 
 <div align="center">
   <h3>🚀 A production-ready full-stack productivity application</h3>
-  <p>React.js · Node.js · Express.js · MongoDB · JWT · Tailwind CSS · AI Enhancement</p>
+  <p>React.js · Node.js · Express.js · MongoDB · JWT · Tailwind CSS · Lucide Icons · AI Enhancement</p>
+
+  <br/>
+
+  | 🌐 Live Demo | 📦 GitHub Repo |
+  |---|---|
+  | [taskflow-app.vercel.app](#) | [github.com/yourusername/task-flow](#) |
+
+  <br/>
+
+  **🔑 Test Credentials (for reviewer)**
+  | Field | Value |
+  |---|---|
+  | Email | `mohansaini8772532@gmail.com` |
+  | Password | `Mohan7983` |
+
 </div>
+
+---
 
 ---
 
