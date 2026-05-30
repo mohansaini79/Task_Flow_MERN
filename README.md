@@ -8,7 +8,7 @@
 
   | 🌐 Live Demo | 📦 GitHub Repo |
   |---|---|
-  | https://task-flow-app-sepia.vercel.app/(#) | [github.com/yourusername/task-flow](#) |
+  | https://task-flow-app-sepia.vercel.app/(#) | [github.com/mohansaini79/task-flow](#) |
 
   <br/>
 
